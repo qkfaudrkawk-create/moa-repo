@@ -1,0 +1,22 @@
+[
+  {
+    "itemType": 1,
+    "isManga": false,
+    "typeSource": "single",
+    "sourceCodeLanguage": 1,
+    "appMinVerReq": "0.5.0",
+    "hasCloudflare": false,
+    "isFullData": false,
+    "dateFormat": "",
+    "dateFormatLocale": "",
+    "id": 1847203615,
+    "name": "애니24",
+    "lang": "ko",
+    "baseUrl": "https://a101.ohli24.net",
+    "version": "1.2.9",
+    "isNsfw": false,
+    "sourceCodeUrl": "https://dc-manhwa-29bc3f.espr.page/mangayomi/anime/ohli24.min.js?v=1.2.9",
+    "iconUrl": "https://dc-manhwa-29bc3f.espr.page/mangayomi/icon.png",
+    "apiUrl": "https://dc-manhwa-29bc3f.espr.page/mangayomi"
+  }
+]
