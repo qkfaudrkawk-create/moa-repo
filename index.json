@@ -1,0 +1,24 @@
+[
+  {
+    "name": "애니24",
+    "id": 780920260910802,
+    "baseUrl": "https://a101.ohli24.net/",
+    "lang": "ko",
+    "typeSource": "single",
+    "iconUrl": "https://dc-toki-mangayomi-media.pages.dev/icon/ko.media.png",
+    "dateFormat": "",
+    "dateFormatLocale": "",
+    "isNsfw": false,
+    "hasCloudflare": false,
+    "sourceCodeUrl": "https://dc-toki-mangayomi-media.pages.dev/javascript/anime/src/ko/ani24.js",
+    "apiUrl": "",
+    "version": "0.1.14",
+    "isManga": false,
+    "itemType": 1,
+    "isFullData": false,
+    "appMinVerReq": "0.9.2",
+    "additionalParams": "",
+    "sourceCodeLanguage": 1,
+    "notes": ""
+  }
+]
